@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\harjoitus_13\harjoitus_13\bin\Debug\harjoitus_13.exe.config
+C:\Users\rina.galeeva\source\repos\harjoitus_13\harjoitus_13\bin\Debug\harjoitus_13.exe
+C:\Users\rina.galeeva\source\repos\harjoitus_13\harjoitus_13\bin\Debug\harjoitus_13.pdb
+C:\Users\rina.galeeva\source\repos\harjoitus_13\harjoitus_13\obj\Debug\harjoitus_13.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\harjoitus_13\harjoitus_13\obj\Debug\harjoitus_13.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\harjoitus_13\harjoitus_13\obj\Debug\harjoitus_13.exe
+C:\Users\rina.galeeva\source\repos\harjoitus_13\harjoitus_13\obj\Debug\harjoitus_13.pdb
