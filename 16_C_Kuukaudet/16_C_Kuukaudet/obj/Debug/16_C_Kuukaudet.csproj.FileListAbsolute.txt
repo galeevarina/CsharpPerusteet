@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\16_C_Kuukaudet\16_C_Kuukaudet\obj\Debug\16_C_Kuukaudet.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\16_C_Kuukaudet\16_C_Kuukaudet\obj\Debug\16_C_Kuukaudet.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\16_C_Kuukaudet\16_C_Kuukaudet\bin\Debug\16_C_Kuukaudet.exe.config
+C:\Users\rina.galeeva\source\repos\16_C_Kuukaudet\16_C_Kuukaudet\bin\Debug\16_C_Kuukaudet.exe
+C:\Users\rina.galeeva\source\repos\16_C_Kuukaudet\16_C_Kuukaudet\bin\Debug\16_C_Kuukaudet.pdb
+C:\Users\rina.galeeva\source\repos\16_C_Kuukaudet\16_C_Kuukaudet\obj\Debug\16_C_Kuukaudet.exe
+C:\Users\rina.galeeva\source\repos\16_C_Kuukaudet\16_C_Kuukaudet\obj\Debug\16_C_Kuukaudet.pdb

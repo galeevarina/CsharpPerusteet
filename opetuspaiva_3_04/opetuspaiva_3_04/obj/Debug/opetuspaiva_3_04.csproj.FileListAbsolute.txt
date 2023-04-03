@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\opetuspaiva_3_04\opetuspaiva_3_04\obj\Debug\opetuspaiva_3_04.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\opetuspaiva_3_04\opetuspaiva_3_04\obj\Debug\opetuspaiva_3_04.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\opetuspaiva_3_04\opetuspaiva_3_04\bin\Debug\opetuspaiva_3_04.exe.config
+C:\Users\rina.galeeva\source\repos\opetuspaiva_3_04\opetuspaiva_3_04\bin\Debug\opetuspaiva_3_04.exe
+C:\Users\rina.galeeva\source\repos\opetuspaiva_3_04\opetuspaiva_3_04\bin\Debug\opetuspaiva_3_04.pdb
+C:\Users\rina.galeeva\source\repos\opetuspaiva_3_04\opetuspaiva_3_04\obj\Debug\opetuspaiva_3_04.exe
+C:\Users\rina.galeeva\source\repos\opetuspaiva_3_04\opetuspaiva_3_04\obj\Debug\opetuspaiva_3_04.pdb
