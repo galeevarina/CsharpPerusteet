@@ -1,0 +1,7 @@
+C:\Users\rinag\source\repos\14_Parillinen vai pariton\14_Parillinen vai pariton\bin\Debug\14_Parillinen vai pariton.exe.config
+C:\Users\rinag\source\repos\14_Parillinen vai pariton\14_Parillinen vai pariton\bin\Debug\14_Parillinen vai pariton.exe
+C:\Users\rinag\source\repos\14_Parillinen vai pariton\14_Parillinen vai pariton\bin\Debug\14_Parillinen vai pariton.pdb
+C:\Users\rinag\source\repos\14_Parillinen vai pariton\14_Parillinen vai pariton\obj\Debug\14_Parillinen vai pariton.csproj.AssemblyReference.cache
+C:\Users\rinag\source\repos\14_Parillinen vai pariton\14_Parillinen vai pariton\obj\Debug\14_Parillinen vai pariton.csproj.CoreCompileInputs.cache
+C:\Users\rinag\source\repos\14_Parillinen vai pariton\14_Parillinen vai pariton\obj\Debug\14_Parillinen vai pariton.exe
+C:\Users\rinag\source\repos\14_Parillinen vai pariton\14_Parillinen vai pariton\obj\Debug\14_Parillinen vai pariton.pdb

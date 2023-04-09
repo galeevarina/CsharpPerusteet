@@ -1,0 +1,7 @@
+C:\Users\rinag\source\repos\Keskiarvo\Keskiarvo\bin\Debug\Keskiarvo.exe.config
+C:\Users\rinag\source\repos\Keskiarvo\Keskiarvo\bin\Debug\Keskiarvo.exe
+C:\Users\rinag\source\repos\Keskiarvo\Keskiarvo\bin\Debug\Keskiarvo.pdb
+C:\Users\rinag\source\repos\Keskiarvo\Keskiarvo\obj\Debug\Keskiarvo.csproj.AssemblyReference.cache
+C:\Users\rinag\source\repos\Keskiarvo\Keskiarvo\obj\Debug\Keskiarvo.csproj.CoreCompileInputs.cache
+C:\Users\rinag\source\repos\Keskiarvo\Keskiarvo\obj\Debug\Keskiarvo.exe
+C:\Users\rinag\source\repos\Keskiarvo\Keskiarvo\obj\Debug\Keskiarvo.pdb

@@ -1,0 +1,7 @@
+C:\Users\rinag\source\repos\Kolmion pinta-ala\Kolmion pinta-ala\bin\Debug\Kolmion pinta-ala.exe.config
+C:\Users\rinag\source\repos\Kolmion pinta-ala\Kolmion pinta-ala\bin\Debug\Kolmion pinta-ala.exe
+C:\Users\rinag\source\repos\Kolmion pinta-ala\Kolmion pinta-ala\bin\Debug\Kolmion pinta-ala.pdb
+C:\Users\rinag\source\repos\Kolmion pinta-ala\Kolmion pinta-ala\obj\Debug\Kolmion pinta-ala.csproj.AssemblyReference.cache
+C:\Users\rinag\source\repos\Kolmion pinta-ala\Kolmion pinta-ala\obj\Debug\Kolmion pinta-ala.csproj.CoreCompileInputs.cache
+C:\Users\rinag\source\repos\Kolmion pinta-ala\Kolmion pinta-ala\obj\Debug\Kolmion pinta-ala.exe
+C:\Users\rinag\source\repos\Kolmion pinta-ala\Kolmion pinta-ala\obj\Debug\Kolmion pinta-ala.pdb
