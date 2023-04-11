@@ -1,0 +1,7 @@
+C:\Users\rinag\source\repos\Palkan lasku\Palkan lasku\bin\Debug\Palkan lasku.exe.config
+C:\Users\rinag\source\repos\Palkan lasku\Palkan lasku\bin\Debug\Palkan lasku.exe
+C:\Users\rinag\source\repos\Palkan lasku\Palkan lasku\bin\Debug\Palkan lasku.pdb
+C:\Users\rinag\source\repos\Palkan lasku\Palkan lasku\obj\Debug\Palkan lasku.csproj.AssemblyReference.cache
+C:\Users\rinag\source\repos\Palkan lasku\Palkan lasku\obj\Debug\Palkan lasku.csproj.CoreCompileInputs.cache
+C:\Users\rinag\source\repos\Palkan lasku\Palkan lasku\obj\Debug\Palkan lasku.exe
+C:\Users\rinag\source\repos\Palkan lasku\Palkan lasku\obj\Debug\Palkan lasku.pdb

@@ -1,0 +1,7 @@
+C:\Users\rinag\source\repos\2303 itsenäinen tehtävä\2303 itsenäinen tehtävä\bin\Debug\2303 itsenäinen tehtävä.exe.config
+C:\Users\rinag\source\repos\2303 itsenäinen tehtävä\2303 itsenäinen tehtävä\bin\Debug\2303 itsenäinen tehtävä.exe
+C:\Users\rinag\source\repos\2303 itsenäinen tehtävä\2303 itsenäinen tehtävä\bin\Debug\2303 itsenäinen tehtävä.pdb
+C:\Users\rinag\source\repos\2303 itsenäinen tehtävä\2303 itsenäinen tehtävä\obj\Debug\2303 itsenäinen tehtävä.csproj.AssemblyReference.cache
+C:\Users\rinag\source\repos\2303 itsenäinen tehtävä\2303 itsenäinen tehtävä\obj\Debug\2303 itsenäinen tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\rinag\source\repos\2303 itsenäinen tehtävä\2303 itsenäinen tehtävä\obj\Debug\2303 itsenäinen tehtävä.exe
+C:\Users\rinag\source\repos\2303 itsenäinen tehtävä\2303 itsenäinen tehtävä\obj\Debug\2303 itsenäinen tehtävä.pdb
