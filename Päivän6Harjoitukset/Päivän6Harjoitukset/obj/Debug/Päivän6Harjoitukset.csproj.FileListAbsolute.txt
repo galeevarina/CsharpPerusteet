@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\Päivän6Harjoitukset\Päivän6Harjoitukset\bin\Debug\Päivän6Harjoitukset.exe.config
+C:\Users\rina.galeeva\source\repos\Päivän6Harjoitukset\Päivän6Harjoitukset\bin\Debug\Päivän6Harjoitukset.exe
+C:\Users\rina.galeeva\source\repos\Päivän6Harjoitukset\Päivän6Harjoitukset\bin\Debug\Päivän6Harjoitukset.pdb
+C:\Users\rina.galeeva\source\repos\Päivän6Harjoitukset\Päivän6Harjoitukset\obj\Debug\Päivän6Harjoitukset.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\Päivän6Harjoitukset\Päivän6Harjoitukset\obj\Debug\Päivän6Harjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\Päivän6Harjoitukset\Päivän6Harjoitukset\obj\Debug\Päivän6Harjoitukset.exe
+C:\Users\rina.galeeva\source\repos\Päivän6Harjoitukset\Päivän6Harjoitukset\obj\Debug\Päivän6Harjoitukset.pdb

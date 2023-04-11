@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\Opetuspäivä5Teoria\Opetuspäivä5Teoria\bin\Debug\Opetuspäivä5Teoria.exe.config
+C:\Users\rina.galeeva\source\repos\Opetuspäivä5Teoria\Opetuspäivä5Teoria\bin\Debug\Opetuspäivä5Teoria.exe
+C:\Users\rina.galeeva\source\repos\Opetuspäivä5Teoria\Opetuspäivä5Teoria\bin\Debug\Opetuspäivä5Teoria.pdb
+C:\Users\rina.galeeva\source\repos\Opetuspäivä5Teoria\Opetuspäivä5Teoria\obj\Debug\Opetuspäivä5Teoria.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\Opetuspäivä5Teoria\Opetuspäivä5Teoria\obj\Debug\Opetuspäivä5Teoria.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\Opetuspäivä5Teoria\Opetuspäivä5Teoria\obj\Debug\Opetuspäivä5Teoria.exe
+C:\Users\rina.galeeva\source\repos\Opetuspäivä5Teoria\Opetuspäivä5Teoria\obj\Debug\Opetuspäivä5Teoria.pdb
