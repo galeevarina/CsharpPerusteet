@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\Opetuspäivä9Harjoitukset\Opetuspäivä9Harjoitukset\bin\Debug\Opetuspäivä9Harjoitukset.exe.config
+C:\Users\rina.galeeva\source\repos\Opetuspäivä9Harjoitukset\Opetuspäivä9Harjoitukset\bin\Debug\Opetuspäivä9Harjoitukset.exe
+C:\Users\rina.galeeva\source\repos\Opetuspäivä9Harjoitukset\Opetuspäivä9Harjoitukset\bin\Debug\Opetuspäivä9Harjoitukset.pdb
+C:\Users\rina.galeeva\source\repos\Opetuspäivä9Harjoitukset\Opetuspäivä9Harjoitukset\obj\Debug\Opetuspäivä9Harjoitukset.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\Opetuspäivä9Harjoitukset\Opetuspäivä9Harjoitukset\obj\Debug\Opetuspäivä9Harjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\Opetuspäivä9Harjoitukset\Opetuspäivä9Harjoitukset\obj\Debug\Opetuspäivä9Harjoitukset.exe
+C:\Users\rina.galeeva\source\repos\Opetuspäivä9Harjoitukset\Opetuspäivä9Harjoitukset\obj\Debug\Opetuspäivä9Harjoitukset.pdb
