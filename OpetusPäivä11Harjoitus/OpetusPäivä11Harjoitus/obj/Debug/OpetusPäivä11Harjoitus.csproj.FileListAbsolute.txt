@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\OpetusPäivä11Harjoitus\OpetusPäivä11Harjoitus\bin\Debug\OpetusPäivä11Harjoitus.exe.config
+C:\Users\rina.galeeva\source\repos\OpetusPäivä11Harjoitus\OpetusPäivä11Harjoitus\bin\Debug\OpetusPäivä11Harjoitus.exe
+C:\Users\rina.galeeva\source\repos\OpetusPäivä11Harjoitus\OpetusPäivä11Harjoitus\bin\Debug\OpetusPäivä11Harjoitus.pdb
+C:\Users\rina.galeeva\source\repos\OpetusPäivä11Harjoitus\OpetusPäivä11Harjoitus\obj\Debug\OpetusPäivä11Harjoitus.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\OpetusPäivä11Harjoitus\OpetusPäivä11Harjoitus\obj\Debug\OpetusPäivä11Harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\OpetusPäivä11Harjoitus\OpetusPäivä11Harjoitus\obj\Debug\OpetusPäivä11Harjoitus.exe
+C:\Users\rina.galeeva\source\repos\OpetusPäivä11Harjoitus\OpetusPäivä11Harjoitus\obj\Debug\OpetusPäivä11Harjoitus.pdb

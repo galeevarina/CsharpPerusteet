@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\OpiskeluPäivä14Harjoituklset\OpiskeluPäivä14Harjoituklset\bin\Debug\OpiskeluPäivä14Harjoituklset.exe.config
+C:\Users\rina.galeeva\source\repos\OpiskeluPäivä14Harjoituklset\OpiskeluPäivä14Harjoituklset\bin\Debug\OpiskeluPäivä14Harjoituklset.exe
+C:\Users\rina.galeeva\source\repos\OpiskeluPäivä14Harjoituklset\OpiskeluPäivä14Harjoituklset\bin\Debug\OpiskeluPäivä14Harjoituklset.pdb
+C:\Users\rina.galeeva\source\repos\OpiskeluPäivä14Harjoituklset\OpiskeluPäivä14Harjoituklset\obj\Debug\OpiskeluPäivä14Harjoituklset.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\OpiskeluPäivä14Harjoituklset\OpiskeluPäivä14Harjoituklset\obj\Debug\OpiskeluPäivä14Harjoituklset.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\OpiskeluPäivä14Harjoituklset\OpiskeluPäivä14Harjoituklset\obj\Debug\OpiskeluPäivä14Harjoituklset.exe
+C:\Users\rina.galeeva\source\repos\OpiskeluPäivä14Harjoituklset\OpiskeluPäivä14Harjoituklset\obj\Debug\OpiskeluPäivä14Harjoituklset.pdb
