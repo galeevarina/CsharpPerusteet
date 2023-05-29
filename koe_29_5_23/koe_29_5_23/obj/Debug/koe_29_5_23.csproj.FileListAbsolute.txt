@@ -1,0 +1,7 @@
+C:\Users\rina.galeeva\source\repos\koe_29_5_23\koe_29_5_23\bin\Debug\koe_29_5_23.exe.config
+C:\Users\rina.galeeva\source\repos\koe_29_5_23\koe_29_5_23\bin\Debug\koe_29_5_23.exe
+C:\Users\rina.galeeva\source\repos\koe_29_5_23\koe_29_5_23\bin\Debug\koe_29_5_23.pdb
+C:\Users\rina.galeeva\source\repos\koe_29_5_23\koe_29_5_23\obj\Debug\koe_29_5_23.csprojAssemblyReference.cache
+C:\Users\rina.galeeva\source\repos\koe_29_5_23\koe_29_5_23\obj\Debug\koe_29_5_23.csproj.CoreCompileInputs.cache
+C:\Users\rina.galeeva\source\repos\koe_29_5_23\koe_29_5_23\obj\Debug\koe_29_5_23.exe
+C:\Users\rina.galeeva\source\repos\koe_29_5_23\koe_29_5_23\obj\Debug\koe_29_5_23.pdb
